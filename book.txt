@@ -3,3 +3,4 @@ Index
 1. Introduction
 2. Why coding
 3. What is coding
+4. Introduction to MIT Scratch
