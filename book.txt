@@ -4,3 +4,4 @@ Index
 2. Why coding
 3. What is coding
 4. Introduction to MIT Scratch
+5. Introduction to MIT AppInventor
